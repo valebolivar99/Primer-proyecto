@@ -12,14 +12,14 @@ body {
     margin: 0;
     padding: 0;
     background-attachment: scroll;
-    background-image: url(/img/medico-sanitario-color-azul_1017-26807.avif);
+    background-image: url(/img/fondo.avif);
 }
 
 
 header, footer {
     background-color: #73d7f2;
     color: #050000;
-    padding: 5px;
+    padding: 2px;
     text-align: center;
     
 }
@@ -108,6 +108,16 @@ input[type="button"] {
 
 input[type="submit"]:hover {
     background-color: #73d7f2;
+}
+
+.form-container {
+    color: #000e11;
+    font-size: 20px;
+    border-color: #03c3fd;
+    border-style: Solid;
+    border-width: 2px;
+    padding: 10px;
+    background-color: #e3fafa;
 }
 
 table {
