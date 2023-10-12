@@ -13,6 +13,7 @@ body {
     padding: 0;
     background-attachment: scroll;
     background-image: url(./img/fondo.jpg);
+    background-size: 100%;
 }
 
 
